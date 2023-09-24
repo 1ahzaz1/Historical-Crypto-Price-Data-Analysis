@@ -1,0 +1,4 @@
+Data is downloaded using data downloader function, a valid key and secret is required, which has currently been hidden for security reasons.
+Each coins graph results of varied lookback + forecast combinations is shown when scatter plotter is run.
+Using this, we can determine the best presets for lookbacks and thresholds to input in our profit loss program. This will tell us on average how much we will make. The program currently assumes a momentum trading strategy rather than mean reversion, so for now, the more negative the y axis output is, the more profitable the strategy may me. 
+bnb and doge and currently outside of the data file due to their unpredictable volatility at the time.
